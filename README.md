@@ -8,4 +8,4 @@ This project focuses on classifying iris species based on the well-known Iris da
 Three classification models are trained on the preprocessed dataset: Logistic Regression, k-Nearest Neighbors (KNN), and Decision Trees. Each model is fitted to the training data, and their performance is evaluated on test data.
 
 **Results**
-The accuracy of the models before re-running the project is around 95%. After re-running, the models achieve 100% accuracy. This improvement highlights the potential variability in model performance due to random initialization and data splitting.
+The accuracy of the models before re-running the project is around 95%. After re-running, the models achieve 97.7% accuracy. This improvement highlights the potential variability in model performance due to random initialization and data splitting.
