@@ -1,4 +1,4 @@
-# OIBSIP_Data_Science
+
 # IRIS DATASET
 This repository contains code for training and evaluating machine learning models to classify iris species using the Iris dataset. The dataset is preprocessed, visualized, and used to train three different classification algorithms: Logistic Regression, k-Nearest Neighbors (KNN), and Decision Tree. The accuracy of the models is reported, showcasing an improvement from approximately 95% to 100% accuracy after re-running.
 
